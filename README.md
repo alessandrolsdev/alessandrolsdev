@@ -10,13 +10,13 @@ Sou um **Engenheiro de Software em formação** focado em construir soluções w
 
 ### 🔨 Projetos em Destaque
 
-#### 💸 **[NOMAD](https://github.com/alessandrolsdev/SEU-LINK-AQUI)** - Sistema Financeiro Full-Stack (PWA)
+#### 💸 **[NOMAD](https://github.com/alessandrolsdev/clutch.git)** - Sistema Financeiro Full-Stack (PWA)
 > *Status: Production Ready* | *Stack: Vue.js/React, Python (FastAPI), PostgreSQL*
 Uma aplicação financeira completa focada em controle de despesas e receitas.
 - **Engenharia:** Arquitetura offline-first (PWA), Autenticação JWT segura e Sincronização de dados.
 - **Destaque:** Solução "Zero Custo" utilizando arquitetura síncrona inteligente no Render/Vercel.
 
-#### ⚡ **[PROJECT CLUTCH](https://github.com/alessandrolsdev/SEU-LINK-AQUI)** - Identity Ecosystem
+#### ⚡ **[PROJECT CLUTCH](https://github.com/alessandrolsdev/controle-financeiro-api.git)** - Identity Ecosystem
 > *Status: Alpha Dev* | *Stack: Node.js (Fastify), Vue 3, Redis, Tailwind v4*
 Uma rede social de alta performance focada na identidade digital do público Gamer.
 - **Engenharia:** Monorepo modular, Validação estrita (Zod) e foco em interações sub-millisecond.
