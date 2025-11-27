@@ -1,50 +1,81 @@
-### 👋 Olá, eu sou o Alessandro!
+# Olá, eu sou o Alessandro! 👋
 
-Sou um Desenvolvedor de Software apaixonado por construir soluções web intuitivas e eficientes. Atualmente sou estudante de Engenharia de Software, sempre aprendendo e explorando novas tecnologias.
+### 👨‍💻 Sobre Mim
 
-Minha jornada na tecnologia começou com uma base sólida em infraestrutura e suporte durante meu estágio em TI, onde aprendi a importância de sistemas estáveis e a resolver problemas complexos em ambientes corporativos com Microsoft Azure.
+Sou um **Engenheiro de Software em formação** focado em construir soluções web intuitivas e de alto desempenho. Minha jornada une a estabilidade da Infraestrutura (Azure) com a criatividade do Desenvolvimento Full-Stack.
 
----
-
-#### 🚀 No que estou trabalhando atualmente:
-- 💻 Desenvolvendo um sistema de controle financeiro completo utilizando **Vue.js** e aplicando conceitos da arquitetura MVC.
-- 🌱 Aprofundando meus conhecimentos em **React**, Python e no ecossistema moderno de JavaScript.
+- ⚡ **Fun fact:** Programar é minha paixão, mas também sou movido pela cultura Gamer. Inclusive, construo softwares para resolver problemas desse universo (veja o *Project CLUTCH* abaixo!).
 
 ---
 
-#### 🛠️ Minhas Ferramentas e Tecnologias:
+### 🔨 Projetos em Destaque
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> 
-  </a>
-</p>
+#### 💸 **[NOMAD](https://github.com/alessandrolsdev/SEU-LINK-AQUI)** - Sistema Financeiro Full-Stack (PWA)
+> *Status: Production Ready* | *Stack: Vue.js/React, Python (FastAPI), PostgreSQL*
+Uma aplicação financeira completa focada em controle de despesas e receitas.
+- **Engenharia:** Arquitetura offline-first (PWA), Autenticação JWT segura e Sincronização de dados.
+- **Destaque:** Solução "Zero Custo" utilizando arquitetura síncrona inteligente no Render/Vercel.
+
+#### ⚡ **[PROJECT CLUTCH](https://github.com/alessandrolsdev/SEU-LINK-AQUI)** - Identity Ecosystem
+> *Status: Alpha Dev* | *Stack: Node.js (Fastify), Vue 3, Redis, Tailwind v4*
+Uma rede social de alta performance focada na identidade digital do público Gamer.
+- **Engenharia:** Monorepo modular, Validação estrita (Zod) e foco em interações sub-millisecond.
 
 ---
 
-#### 📫 Como me encontrar:
+### 🛠️ Tech Stack & Ferramentas
 
-<p align="left">
-<a href="https://linkedin.com/in/alessandrolsdev" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:alessandro.lima.silva25@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
+**💻 Linguagens**
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+**📚 Frameworks & Libraries (Frontend)**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+</div>
+
+**⚙️ Frameworks (Backend)**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+</div>
+
+**🗄️ Database & ORMs**
+<div style="display: inline_block"><br>
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+</div>
+
+**🚀 DevOps & Tools**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula&hide=html,css,jupyter%20notebook"/>
+</div>
+
+---
+
+### 🚀 Visitantes
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=alessandrolsdev&color=blueviolet&style=flat-square&label=Profile+Views" alt="alessandrolsdev" />
+</div>
+
+### 📫 Contatos
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alessandrolsdev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:alessandrolsdev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
