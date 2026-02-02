@@ -237,17 +237,9 @@ Immersive portfolio with complex micro-interactions, 3D tilt effects, and integr
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2)](https://github.com/alessandrolsdev)
+[[[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2)]](https://github-readme-stats-sigma-five.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula)(https://github.com/alessandrolsdev)](https://github-readme-stats-sigma-five.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula&hide=html,css&langs_count=8&hide_border=false&border_radius=10&bg_color=0d1117&title_color=bd93f9)](https://github.com/alessandrolsdev)
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessandrolsdev&theme=dracula&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9)](https://github.com/alessandrolsdev)
+[[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula&hide=html,css&langs_count=8&hide_border=false&border_radius=10&bg_color=0d1117&title_color=bd93f9)](https://github.com/alessandrolsdev)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula)
 
 </div>
 
