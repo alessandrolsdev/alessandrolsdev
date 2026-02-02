@@ -236,12 +236,27 @@ Immersive portfolio with complex micro-interactions, 3D tilt effects, and integr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula&hide=html,css&langs_count=8"/>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2)](https://github.com/alessandrolsdev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula&hide=html,css&langs_count=8&hide_border=false&border_radius=10&bg_color=0d1117&title_color=bd93f9)](https://github.com/alessandrolsdev)
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrolsdev&theme=dracula" alt="GitHub Streak"/>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessandrolsdev&theme=dracula&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9)](https://github.com/alessandrolsdev)
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alessandrolsdev&theme=dracula&hide_border=false&border_radius=10&custom_title=Contribution%20Graph&area=true&bg_color=0d1117&color=bd93f9&line=bd93f9&point=f8f8f2)](https://github.com/alessandrolsdev)
+
 </div>
 
 ---
