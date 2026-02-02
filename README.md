@@ -236,19 +236,20 @@ Immersive portfolio with complex micro-interactions, 3D tilt effects, and integr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-[[[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2)]](https://github-readme-stats-sigma-five.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula)(https://github.com/alessandrolsdev)](https://github-readme-stats-sigma-five.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula)
-
-[[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula&hide=html,css&langs_count=8&hide_border=false&border_radius=10&bg_color=0d1117&title_color=bd93f9)](https://github.com/alessandrolsdev)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula)
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alessandrolsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alessandrolsdev&layout=compact&theme=dracula&hide=html,css&langs_count=8&hide_border=false&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alessandrolsdev&theme=dracula&hide_border=false&border_radius=10&custom_title=Contribution%20Graph&area=true&bg_color=0d1117&color=bd93f9&line=bd93f9&point=f8f8f2)](https://github.com/alessandrolsdev)
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=alessandrolsdev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandrolsdev&bg_color=282a36&color=bd93f9&line=bd93f9&point=50fa7b&area=true&hide_border=false&border_radius=10&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 </div>
 
 ---
