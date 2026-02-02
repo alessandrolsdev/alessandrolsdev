@@ -243,12 +243,6 @@ Immersive portfolio with complex micro-interactions, 3D tilt effects, and integr
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=alessandrolsdev&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alessandrolsdev&bg_color=282a36&color=bd93f9&line=bd93f9&point=50fa7b&area=true&hide_border=false&border_radius=10&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 </div>
 
