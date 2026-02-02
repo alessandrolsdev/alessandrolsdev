@@ -35,7 +35,7 @@ My approach combines solid engineering fundamentals with practical problem-solvi
 
 ## 🚀 Featured Projects
 
-### 🤖 [Nexus AI Recruiter](https://github.com/alessandrolsdev) - Intelligent Resume Agent
+### 🤖 [Nexus AI Recruiter](https://github.com/alessandrolsdev/curriculo-automatizado) - Intelligent Resume Agent
 <div align="left">
   <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
@@ -55,7 +55,7 @@ Autonomous AI agent that semantically analyzes job descriptions and generates ta
 
 ---
 
-### 🎮 [RPG Task Manager](https://github.com/alessandrolsdev) - Event-Driven Gamification System
+### 🎮 [RPG Task Manager](https://github.com/alessandrolsdev/rpg-task-manager) - Event-Driven Gamification System
 <div align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
@@ -78,7 +78,7 @@ Event-driven task management system with RPG-style gamification using asynchrono
 
 ---
 
-### 💰 [NOMAD](https://github.com/alessandrolsdev/clutch.git) - Offline-First Financial PWA
+### 💰 [NOMAD](https://github.com/alessandrolsdev/controle-financeiro-api) - Offline-First Financial PWA
 <div align="left">
   <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -99,7 +99,7 @@ Complete financial management system with offline-first architecture and intelli
 
 ---
 
-### ⚡ [Project CLUTCH](https://github.com/alessandrolsdev/controle-financeiro-api.git) - High-Performance Social Platform
+### ⚡ [Project CLUTCH](https://github.com/alessandrolsdev/clutch) - High-Performance Social Platform
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
@@ -120,7 +120,7 @@ Social network focused on performance optimization and real-time interactions.
 
 ---
 
-### 🏖️ [Arena Iron Beach](https://github.com/alessandrolsdev) - Premium Scheduling System
+### 🏖️ [Arena Iron Beach](https://arena-iron-beach.vercel.app/) - Premium Scheduling System
 <div align="left">
   <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -141,7 +141,7 @@ PWA scheduling platform with premium UI and serverless architecture.
 <details>
 <summary><b>📦 Additional Projects</b></summary>
 
-### 🤖 AutoScanExtractor - Intelligent RPA Bot
+### 🤖 [AutoScanExtractor - Intelligent RPA Bot](https://github.com/alessandrolsdev/auto-scan-extractor)
 **Stack:** Python, Tesseract OCR, OpenCV, Pandas  
 Desktop automation solution for financial data extraction. Hybrid engine combining Regex for digital PDFs and OCR for scanned documents. Packaged as standalone executable for easy distribution.
 
@@ -153,19 +153,19 @@ Cross-platform mobile app with geolocation, real-time feeds, and push notificati
 **Stack:** FastAPI, Vue 3, SQLAlchemy, Clean Architecture  
 Production-ready SaaS accelerator with OAuth2 authentication, background task scheduling (APScheduler), and decoupled layer architecture.
 
-### 🎙️ Clutch Discord Bot - AI & Real-Time Audio
+### 🎙️ [Clutch Discord Bot - AI & Real-Time Audio](https://github.com/alessandrolsdev/clutch-discord-bot)
 **Stack:** Python 3.11, Discord.py, UDP Sockets, Gemini AI  
 Advanced platform featuring real-time audio streaming via UDP, voice modulation (DSP), and conversational AI with memory using Gemini Flash.
 
-### 🖼️ Legendary Feed AI - Multimodal Vision
+### 🖼️ [Legendary Feed AI - Multimodal Vision](https://github.com/alessandrolsdev/legendary-feed-ai)
 **Stack:** React 19, FastAPI, Gemini Vision  
 Image classification platform using Gemini Vision API to analyze and categorize photos into RPG rarity tiers based on visual context.
 
-### 🏦 Banco New - Banking System
+### 🏦 [Banco New - Banking System](https://github.com/alessandrolsdev/banco-py)
 **Stack:** Angular 18, FastAPI, GraphQL, Docker  
 Complete banking platform with atomic transactions (ACID compliance), type-safe GraphQL API using Strawberry, and containerized environment.
 
-### 🎨 Interactive Portfolio
+### 🎨 [Interactive Portfolio](https://alessandro-linktree.vercel.app/)
 **Stack:** Next.js 14, TypeScript, Framer Motion, Gemini API  
 Immersive portfolio with complex micro-interactions, 3D tilt effects, and integrated AI chatbot for conversational interface.
 
